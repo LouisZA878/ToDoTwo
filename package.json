@@ -1,0 +1,22 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.18.3",
+    "dash": "^3.23.2",
+    "ejs": "^2.6.1",
+    "express": "^4.18.2",
+    "lo": "^0.41.0",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.1",
+    "parser": "^0.1.4"
+  }
+}
